@@ -99,7 +99,7 @@ PrepareIn=99,01
 
 ---
 
-## 📱 Como Executar o Projeto no Android Studio
+## 📱 Como Executar o Projeto no Dispositivo Mobile
 
 1. Abra o `GoVendas`.
 2. Simule uma Venda 
