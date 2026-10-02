@@ -5,6 +5,8 @@
 
 Projeto Android nativo para vendas, orçamentos, garantia, seguro e integração REST para TOTVS Protheus.
 
+precisa baixar o APK e instalar no dispositivo Android 
+
 ---
 
 ## 🚀 Guia de Configuração e Execução
